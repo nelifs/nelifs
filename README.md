@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a beginner developer in Javascript!
+
+Also learning to create websites using html, css and express
+
+### My projects
+
+Time and Date — A simple [website](https://github.com/nelifs/time-date) showing the current time and date
+That's all for now...
+
 <!--
 **nelifs/nelifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

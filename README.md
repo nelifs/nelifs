@@ -15,7 +15,7 @@ That's all for now...
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=nelifs&show_icons=true&theme=dark)
-<!-- <br />
+<br />
 <a href="https://wakatime.com/@nelifs">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nelifs&show_icons=true&hide_border=false&theme=dark&layout=compact">
-</a> -->
+</a>

@@ -8,8 +8,7 @@ Learning to create Discord bots/Websites
 
 ### Projects
 
-* Time and Date — A simple [website](https://nelifs.github.io/time-date/) showing the current time and date (My project)<br>
-* FNF-OS Engine — [Modded](https://github.com/weuz-github/FNF-OSEngine) Psych Engine. (Second programmer)<br>
+* Nothing to show yet
 
 ### Some statistics
 

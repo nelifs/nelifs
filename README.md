@@ -5,7 +5,7 @@ Learning to create Websites/Discord bots
 
 ### Projects
 
-* Nothing to show yet
+* My Discord [bot](https://discord.com/api/oauth2/authorize?client_id=949610542740426842&permissions=1495084166150&scope=bot)
 
 ### Some statistics
 

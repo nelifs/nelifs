@@ -5,7 +5,8 @@ Currently learning: Node.js & Java
 
 ### Projects
 
-* Nothing
+* Foxogram
+  * https://foxigram.su
 
 ### Some statistics
 

@@ -7,6 +7,7 @@ Currently learning: Node.js & Java
 
 * Foxogram
   * https://foxogram.su
+  * https://discord.foxogram.su
 
 ### Some statistics
 

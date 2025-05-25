@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-I'am a junior developer!
-Currently learning: Node.js & Java
+I'm backend developer.
+Currently learning Java.
+
+### Skills
+
+[![Skills](https://skillicons.dev/icons?i=java,gradle,spring,postgres,rabbitmq,linux,docker)](https://skillicons.dev)
 
 ### Projects
 
-* Foxogram
+* Foxogram - An open-source realtime messaging app
   * https://foxogram.su
-  * https://discord.foxogram.su
 
-### Some statistics
+### Statistics
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=nelifs&show_icons=true&theme=dark)

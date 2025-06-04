@@ -5,7 +5,7 @@ Currently learning Java.
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,gradle,spring,postgres,rabbitmq,linux,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,java,gradle,spring,postgres,rabbitmq,linux,docker)](https://skillicons.dev)
 
 ### Projects
 

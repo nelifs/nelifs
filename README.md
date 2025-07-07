@@ -9,8 +9,8 @@ Currently learning Java.
 
 ### Projects
 
-* Foxogram - An open-source realtime messaging app
-  * https://foxogram.su
+* FoxoChat - Blazingly fast messenger written in Java
+  * https://foxochat.app
 
 ### Statistics
 

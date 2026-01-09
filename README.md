@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm backend developer.
-Currently learning Java.
+Currently learning Go.
 
 ### Skills
 
